@@ -5,5 +5,5 @@ import com.google.gson.annotations.SerializedName
 
 data class PlantInfo(
     @SerializedName("data")
-    val `data`: List<Data>,
+    val data: List<Data>,
 )
